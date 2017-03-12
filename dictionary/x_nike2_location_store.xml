@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="cmn_location" label="Store" max_length="40" name="x_nike2_location_store" type="collection">
+    <element audit="true" extends="cmn_location" label="Store" max_length="40" name="x_nike2_location_store" type="collection">
         <element choice="1" label="Concept" max_length="100" name="concept" type="choice">
             <choice>
                 <element label="Inline" sequence="0" value="Inline"/>
