@@ -38,7 +38,14 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	var hierarchyFields = [
+	var hh = new x_nike2_location.HierarchyHelper();
+	current.parent = hh.getParent( current );
+	//gs.info( hh.getParent( current ) );
+	
+	
+	// nested array
+	// [ reference field name on cmn_location, table name for reference ]
+	/*var hierarchyFields = [
 		[ 'u_sub_management_country', 'x_nike2_location_sub_management_country' ],
 		[ 'u_management_country', 'x_nike2_location_management_country' ],
 		[ 'u_sub_territory', 'x_nike2_location_sub_territory' ],
@@ -65,7 +72,7 @@
 			current.parent = current[ hierarchyFields[ idx ][ 0 ] ];
 			break;
 		}
-	}
+	}*/
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -74,7 +81,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>e6c6e9844fa13600de2c0ad14210c7a0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Sync hierarchy for self</sys_name>
         <sys_overrides/>
         <sys_package display_value="Location Management" source="x_nike2_location">440eac804f213600de2c0ad14210c743</sys_package>
@@ -83,7 +90,7 @@
         <sys_scope display_value="Location Management">440eac804f213600de2c0ad14210c743</sys_scope>
         <sys_update_name>sys_script_e6c6e9844fa13600de2c0ad14210c7a0</sys_update_name>
         <sys_updated_by>ZBIEWE</sys_updated_by>
-        <sys_updated_on>2017-03-12 05:31:29</sys_updated_on>
+        <sys_updated_on>2017-03-12 07:33:04</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

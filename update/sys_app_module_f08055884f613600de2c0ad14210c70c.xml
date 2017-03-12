@@ -15,7 +15,7 @@
         <mobile_title>Management Countries</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_nike2_location_management_country</name>
-        <order/>
+        <order>460</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -28,7 +28,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>f08055884f613600de2c0ad14210c70c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Management Countries</sys_name>
         <sys_overrides/>
         <sys_package display_value="Location Management" source="x_nike2_location">440eac804f213600de2c0ad14210c743</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Location Management">440eac804f213600de2c0ad14210c743</sys_scope>
         <sys_update_name>sys_app_module_f08055884f613600de2c0ad14210c70c</sys_update_name>
         <sys_updated_by>ZBIEWE</sys_updated_by>
-        <sys_updated_on>2017-03-12 01:28:38</sys_updated_on>
+        <sys_updated_on>2017-03-12 07:37:28</sys_updated_on>
         <timeline_page/>
         <title>Management Countries</title>
         <uncancelable>false</uncancelable>

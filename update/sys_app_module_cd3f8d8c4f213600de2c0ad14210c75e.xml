@@ -15,7 +15,7 @@
         <mobile_title>Sub Geographys</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_nike2_location_sub_geography</name>
-        <order/>
+        <order>430</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -28,8 +28,8 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>cd3f8d8c4f213600de2c0ad14210c75e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Sub Geographys</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Sub Geographies</sys_name>
         <sys_overrides/>
         <sys_package display_value="Location Management" source="x_nike2_location">440eac804f213600de2c0ad14210c743</sys_package>
         <sys_policy/>
@@ -37,9 +37,9 @@
         <sys_scope display_value="Location Management">440eac804f213600de2c0ad14210c743</sys_scope>
         <sys_update_name>sys_app_module_cd3f8d8c4f213600de2c0ad14210c75e</sys_update_name>
         <sys_updated_by>ZBIEWE</sys_updated_by>
-        <sys_updated_on>2017-03-12 01:22:54</sys_updated_on>
+        <sys_updated_on>2017-03-12 07:37:07</sys_updated_on>
         <timeline_page/>
-        <title>Sub Geographys</title>
+        <title>Sub Geographies</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
