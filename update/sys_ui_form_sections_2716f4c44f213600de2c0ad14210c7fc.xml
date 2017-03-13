@@ -40,6 +40,19 @@
             <sys_updated_by>ZBIEWE</sys_updated_by>
             <sys_updated_on>2017-03-11 23:33:19</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>ZBIEWE</sys_created_by>
+            <sys_created_on>2017-03-13 02:14:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>489466184fa17600de2c0ad14210c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_nike2_location_store" name="x_nike2_location_store" sys_domain="global" view="Default view">2716f4c44f213600de2c0ad14210c7fc</sys_ui_form>
+            <sys_ui_section caption="Hierarchy" display_value="Hierarchy" name="x_nike2_location_store" sys_domain="global" view="Default view">c09466184fa17600de2c0ad14210c725</sys_ui_section>
+            <sys_updated_by>ZBIEWE</sys_updated_by>
+            <sys_updated_on>2017-03-13 02:14:20</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_nike2_location_store</name>
             <roles/>
