@@ -37,9 +37,14 @@
         <element label="SAP ID" max_length="40" name="sap_id" type="string"/>
         <element label="Sell area" max_length="40" name="sell_area" type="integer"/>
         <element choice="1" label="Status" max_length="40" name="status" type="choice">
-            <choice/>
+            <choice>
+                <element label="Pre-open (NSO)" sequence="0" value="Pre-open (NSO)"/>
+                <element label="Open" sequence="1" value="Open"/>
+                <element label="Remodel" sequence="2" value="Remodel"/>
+                <element label="Closed (retired)" sequence="3" value="Closed (retired)"/>
+            </choice>
         </element>
-        <element label="Store name" max_length="100" name="store_name" type="string"/>
+        <element label="Store name" mandatory="true" max_length="100" name="store_name" type="string"/>
         <element label="Store number" mandatory="true" max_length="40" name="store_number" type="integer" unique="true"/>
         <element choice="1" label="Sub concept" max_length="40" name="sub_concept" type="choice">
             <choice/>

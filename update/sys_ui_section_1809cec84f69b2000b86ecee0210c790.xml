@@ -5,13 +5,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>ZBIEWE</sys_created_by>
-            <sys_created_on>2017-03-12 05:50:22</sys_created_on>
-            <sys_id>366cc60c4f253600de2c0ad14210c7b8</sys_id>
+            <sys_created_on>2017-03-15 01:52:50</sys_created_on>
+            <sys_id>28d23c494f2d36000b86ecee0210c718</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_nike2_location_territory" sys_domain="global" view="7dc1d1cc30ccf1005d499e01aa0ef6a3">1809cec84f69b2000b86ecee0210c790</sys_ui_section>
             <sys_updated_by>ZBIEWE</sys_updated_by>
-            <sys_updated_on>2017-03-12 05:50:22</sys_updated_on>
+            <sys_updated_on>2017-03-15 01:52:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_active</element>
             <position>1</position>
             <sys_created_by>ZBIEWE</sys_created_by>
-            <sys_created_on>2017-03-12 05:50:22</sys_created_on>
-            <sys_id>b66cc60c4f253600de2c0ad14210c7b8</sys_id>
+            <sys_created_on>2017-03-15 01:52:50</sys_created_on>
+            <sys_id>a8d23c494f2d36000b86ecee0210c718</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_nike2_location_territory" sys_domain="global" view="7dc1d1cc30ccf1005d499e01aa0ef6a3">1809cec84f69b2000b86ecee0210c790</sys_ui_section>
             <sys_updated_by>ZBIEWE</sys_updated_by>
-            <sys_updated_on>2017-03-12 05:50:22</sys_updated_on>
+            <sys_updated_on>2017-03-15 01:52:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>ZBIEWE</sys_created_by>
-            <sys_created_on>2017-03-12 05:50:22</sys_created_on>
-            <sys_id>3a6cc60c4f253600de2c0ad14210c7b8</sys_id>
+            <sys_created_on>2017-03-15 01:52:50</sys_created_on>
+            <sys_id>2cd23c494f2d36000b86ecee0210c718</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_nike2_location_territory" sys_domain="global" view="7dc1d1cc30ccf1005d499e01aa0ef6a3">1809cec84f69b2000b86ecee0210c790</sys_ui_section>
             <sys_updated_by>ZBIEWE</sys_updated_by>
-            <sys_updated_on>2017-03-12 05:50:22</sys_updated_on>
+            <sys_updated_on>2017-03-15 01:52:50</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -47,13 +47,27 @@
             <element>parent</element>
             <position>3</position>
             <sys_created_by>ZBIEWE</sys_created_by>
-            <sys_created_on>2017-03-12 05:50:22</sys_created_on>
-            <sys_id>ba6cc60c4f253600de2c0ad14210c7b8</sys_id>
+            <sys_created_on>2017-03-15 01:52:50</sys_created_on>
+            <sys_id>acd23c494f2d36000b86ecee0210c718</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_nike2_location_territory" sys_domain="global" view="7dc1d1cc30ccf1005d499e01aa0ef6a3">1809cec84f69b2000b86ecee0210c790</sys_ui_section>
             <sys_updated_by>ZBIEWE</sys_updated_by>
-            <sys_updated_on>2017-03-12 05:50:22</sys_updated_on>
+            <sys_updated_on>2017-03-15 01:52:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>4</position>
+            <sys_created_by>ZBIEWE</sys_created_by>
+            <sys_created_on>2017-03-15 01:52:50</sys_created_on>
+            <sys_id>20d23c494f2d36000b86ecee0210c719</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_nike2_location_territory" sys_domain="global" view="7dc1d1cc30ccf1005d499e01aa0ef6a3">1809cec84f69b2000b86ecee0210c790</sys_ui_section>
+            <sys_updated_by>ZBIEWE</sys_updated_by>
+            <sys_updated_on>2017-03-15 01:52:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
