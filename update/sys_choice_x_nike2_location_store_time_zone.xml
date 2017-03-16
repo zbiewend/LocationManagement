@@ -469,6 +469,24 @@
             <sys_updated_on>2017-03-11 23:33:19</sys_updated_on>
             <value>US/Pacific-New</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_zone</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CET</label>
+            <language>en</language>
+            <name>x_nike2_location_store</name>
+            <sequence>321</sequence>
+            <sys_created_by>ZBIEWE</sys_created_by>
+            <sys_created_on>2017-03-15 21:47:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>855409d94f2576000b86ecee0210c7d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ZBIEWE</sys_updated_by>
+            <sys_updated_on>2017-03-15 21:47:49</sys_updated_on>
+            <value>CET</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>time_zone</element>
             <name>x_nike2_location_store</name>
