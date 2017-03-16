@@ -5,8 +5,8 @@
         <element attributes="import_attribute_name=company,edge_encryption_enabled=true" label="company" max_length="40" name="u_company" type="string"/>
         <element attributes="import_attribute_name=country,edge_encryption_enabled=true" label="country" max_length="40" name="u_country" type="string"/>
         <element attributes="import_attribute_name=u_country_iso_number" label="Country iso number" max_length="40" name="u_country_iso_number" type="integer"/>
-        <element attributes="import_attribute_name=name,edge_encryption_enabled=true" label="name" max_length="40" name="u_name" type="string"/>
-        <element attributes="import_attribute_name=parent,edge_encryption_enabled=true" label="parent" max_length="40" name="u_parent" type="string"/>
+        <element attributes="import_attribute_name=name,edge_encryption_enabled=true" label="name" max_length="100" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=parent,edge_encryption_enabled=true" label="parent" max_length="100" name="u_parent" type="string"/>
         <element attributes="import_attribute_name=Parent_Hierarchy_Level,edge_encryption_enabled=true" label="Parent_Hierarchy_Level" max_length="40" name="u_parent_hierarchy_level" type="string"/>
         <element attributes="import_attribute_name=u_selectable,edge_encryption_enabled=true" label="Selectable" max_length="40" name="u_selectable" type="string"/>
         <element attributes="import_attribute_name=state,edge_encryption_enabled=true" label="state" max_length="40" name="u_state" type="string"/>
